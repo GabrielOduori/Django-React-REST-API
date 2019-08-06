@@ -1,10 +1,15 @@
 # Byte-compiled / optimized / DLL files
+node_modules
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
+.vscode
+
+Pipfile
+Pipfile.lock
 
 # Distribution / packaging
 .Python
